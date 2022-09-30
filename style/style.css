@@ -1,0 +1,39 @@
+p{
+	width: 714px;
+	height: 33px;
+	text-transform: uppercase;
+}
+ul{
+	list-style-type: none;
+	
+}
+.header-color{
+	background-color: #0020F4;
+}
+.article-image{
+	width: 1195px;
+	height: 600px;
+	border-radius: 15px;
+	margin: 0 auto;
+
+}
+.ul-color{
+	color: white;
+}
+h4{
+	font-size: 16px;
+	color: #171717;
+	margin: 0 auto;
+	
+
+}
+.click-button{
+	color: #FFFFFF;
+	background-color: #0A22F4;
+	width: 341px;
+	height: 55px;
+	border-radius: 28px;
+	text-decoration-line: none ;
+	margin: 0 auto;
+	
+}
